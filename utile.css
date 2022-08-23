@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Moon+Dance&family=Permanent+Marker&family=Shadows+Into+Light&family=Teko:wght@300&display=swap');
+.textcenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Teko', sans-serif;
+}
+.btn{
+    font-family: sans-serif;
+    padding: 2px 6px;
+    border-radius: 6px;
+    color: honeydew;
+    background-color: var(--main-bg-color);
+    border: 2px solid white;
+}
+.btn:hover{
+    color: rgb(13, 19, 34);
+    border-color: rgb(13, 19, 34);
+    background-color: rgb(255, 255, 255);
+}
